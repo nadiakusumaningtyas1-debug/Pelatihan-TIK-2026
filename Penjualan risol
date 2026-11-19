@@ -1,0 +1,38 @@
+const menuRisol = [
+  {
+    id: 1,
+    nama: "Risol Mayo Smoked Beef",
+    kategori: "creamy",
+    harga: 6500,
+    badge: "Best Seller",
+    deskripsi: "Isian smoked beef gurih, potongan telur rebus, dan saus mayo lembut berbalut tepung roti renyah.",
+    gambar: "./assets/risol-mayo.webp"
+  },
+  {
+    id: 2,
+    nama: "Risol Ragout Ayam",
+    kategori: "creamy",
+    harga: 6000,
+    badge: "Klasik",
+    deskripsi: "Isian ragout ayam suwir dan wortel berbumbu susu gurih yang creamy namun tetap ringan.",
+    gambar: "./assets/risol-ragout.webp"
+  },
+  {
+    id: 3,
+    nama: "Risol Ayam Suwir Pedas",
+    kategori: "spicy",
+    harga: 6500,
+    badge: "Pedas",
+    deskripsi: "Suwiran ayam pedas gurih dengan aroma daun jeruk dan sentuhan cabai rawit segar.",
+    gambar: "./assets/risol-pedas.webp"
+  },
+  {
+    id: 4,
+    nama: "Paket Box Isi 6 Mix",
+    kategori: "box",
+    harga: 37000,
+    badge: "Hemat",
+    deskripsi: "Paket box praktis berisi 6 pcs risol pilihan (bisa mix rasa) lengkap dengan cabai rawit/saus.",
+    gambar: "./assets/box-6.webp"
+  }
+];
